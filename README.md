@@ -1,5 +1,3 @@
 # Royal-Seal-Radio
-Embed Royal Seal Radio in your site
-Royal Seal Radio Embed on your site: 
-<iframe src="https://royalsealent.com/wp-content/white_skin/popupradio.html …" width="560px" height="320px">
- </iframe>
+Embed Royal Seal Radio in your site to get the hottest station with urban programming:
+Royal Seal Ent is the #1 Independent radio station for the latest Hip-Hop, Rap, and R&B music. Stay current on entertainment news, events and promotion.
