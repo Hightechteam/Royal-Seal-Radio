@@ -7,5 +7,6 @@ Royal Seal Radio Embed on your site:
 
    iframe.src = 'https://royalsealent.com/wp-content/white_skin/popupradio.html';       
    iframe.width = '560px';
-   iframe.height = '320px';
+   iframe.height = '200px';
+   iframe.scrolling='no';
 </script>
