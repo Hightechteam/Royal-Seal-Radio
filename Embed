@@ -1,11 +1,10 @@
 Royal Seal Radio Embed on your site: 
--Copy and Paste below-
+-Copy and Paste Below Into The Body Of Your Script-
 
 <script type='text/javascript' charset='utf-8'>     
    var iframe = document.createElement('iframe');       
    document.body.appendChild(iframe);
-
-   iframe.src = 'https://royalsealent.com/wp-content/white_skin/popupradio.html';       
+   iframe.src = 'http://royalsealent.com/wp-content/white_skin/popupradio.html';       
    iframe.width = '560px';
    iframe.height = '200px';
    iframe.scrolling='no';
