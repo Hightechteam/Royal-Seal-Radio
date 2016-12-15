@@ -1,11 +1,6 @@
 Royal Seal Radio Embed on your site: 
--Copy and Paste Below Into The Body Of Your Script-
+-Copy and Paste Code Below Into Your Script Where You WRSE Radio To Show-
 
-<script type='text/javascript' charset='utf-8'>     
-   var iframe = document.createElement('iframe');       
-   document.body.appendChild(iframe);
-   iframe.src = 'http://royalsealent.com/wp-content/white_skin/popupradio.html';       
-   iframe.width = '540px';
-   iframe.height = '160px';
-   iframe.scrolling='no';
-</script>
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class='embed-container'><iframe src='http://royalsealent.com/radioplugin/popup.html' style='border:0'></iframe></div>
